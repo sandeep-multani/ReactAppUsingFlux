@@ -3,10 +3,7 @@
 var React = require('react');
 var Router = require('react-router');
 var routes = require('./routes');
-var InitializeActions = require('./actions/initializeActions');
 
-
-InitializeActions.initApp();
 
 //HTML 5 History API (IE 10+)
 /*
