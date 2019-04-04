@@ -1,12 +1,12 @@
 {
-  "name": "psadmin",
+  "name": "admin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Cory House",
+  "author": "Sandeep Multani",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^3.3.5",
